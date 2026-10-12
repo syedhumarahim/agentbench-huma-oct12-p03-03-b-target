@@ -1,0 +1,6 @@
+artifacts/
+coverage/
+governance-contract.json
+node_modules/
+package-lock.json
+state/
